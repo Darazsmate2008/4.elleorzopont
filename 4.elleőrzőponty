@@ -1,3 +1,4 @@
+
 <html><head></head><body data-new-gr-c-s-check-loaded="14.1085.0" data-gr-ext-installed=""><table class="keret">
     <tbody><tr>
         <td class="s"></td>
@@ -38,38 +39,38 @@
 <style>
     table.keret {
         border-spacing: 5px;
-        box-shadow: inset 2px 2px 7px black;
-        background-color: antiquewhite;
+        box-shadow: inset 2px 2px 7px rgb(0, 0, 0);
+        background-color: rgb(215, 215, 250);
         padding: 4px;
-        border-radius: 18px;
+        border-radius: 2px;
     }
     td.s {
-        width: 20px;
-        height:20px;
-        background-color: rgb(73, 195, 240);
-        border: double 3px rgb(233, 194, 194);
-        box-shadow: inset 2px 2px 7px black;
+        width: 10px;
+        height:10px;
+        background-color: rgb(73, 112, 240);
+        border: double 10px rgb(251, 252, 253);
+        box-shadow: inset 2px 2px 7px rgb(16, 16, 176);
         border-radius: 8px;
     }
     td.v {
-        border: double 3px rgb(81, 191, 171);
-        box-shadow: inset 2px 2px 4px rgb(9, 9, 31);
+        border: double 3px rgb(81, 110, 191);
+        box-shadow: inset 2px 2px 4px rgb(23, 23, 163);
     }
     td.o {
-        width: 800px;
-        height: 500px;
-        box-shadow: inset 2px 2px 7px black;
+        width: 600px;
+        height: 400px;
+        box-shadow: inset 20px 20px 10px rgb(26, 175, 0);
         border-radius: 5px;
-        background-color: rgb(177, 177, 109);
+        background-color: rgb(19, 175, 39);
     }
     table.bele {
         width: 90%;
         height: 90%;
         margin: auto;
         border-spacing: 25px;
-        box-shadow: inset 2px 2px 7px black;
-        background-color: rgb(208, 148, 69);
-        border-radius: 18px;
+        box-shadow: inset 2px 2px 7px rgb(0, 27, 145);
+        background-color: rgb(18, 43, 189);
+        border-radius: 12px;
     }
     table.bele td {
         width: 50px;
@@ -79,11 +80,11 @@
         box-shadow: inset 2px 2px 7px black;
         border-radius: 5px;
         font-size: 40px;
-        color:rgb(122, 168, 153);
+        color:rgb(12, 81, 192);
         text-shadow: 0px 0px 2px black;
     }
     tr.as td {
         background-color: aqua;
-        font-size: 60px;
+        font-size: 50px;
     }
 </style></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
